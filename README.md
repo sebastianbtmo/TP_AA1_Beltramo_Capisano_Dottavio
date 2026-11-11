@@ -48,6 +48,8 @@ Se recomienda utilizar Python 3.10.6 para evitar posibles incompatibilidades ent
    python -m pip install -r requirements.txt
    ```
 
+5. Extraer "cache_pycaret_automl.rar", encontrado en TP_2/
+
 ### Ejecución
 
 Abrir el notebook del trabajo asegurándose de seleccionar el entorno virtual creado como kernel.
