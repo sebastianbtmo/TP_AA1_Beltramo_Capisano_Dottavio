@@ -1,2 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
+.venv/
+TP_2/cache_pycaret_*.joblib
+logs.log
